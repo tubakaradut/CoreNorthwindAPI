@@ -1,0 +1,17 @@
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Tuba\Desktop\CoreNorthwindAPI\Business\obj\Debug\netcoreapp3.1\Business.pdb
