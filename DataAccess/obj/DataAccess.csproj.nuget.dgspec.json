@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\Core.csproj": {
+    "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Tuba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Tuba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -108,8 +108,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Entities\\Entities.csproj"
+              "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Entities\\Entities.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Entities\\Entities.csproj": {
+    "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Tuba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,8 +180,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\Core.csproj"
+              "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\Core.csproj"
               }
             }
           }

@@ -7571,11 +7571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Tuba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7596,8 +7596,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Business\\Business.csproj"
+            "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Business\\Business.csproj"
             }
           }
         }

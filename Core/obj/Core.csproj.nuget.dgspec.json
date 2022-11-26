@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\Core.csproj": {}
+    "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\Core.csproj": {
+    "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Tuba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthwindAPI\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthwindAPI\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

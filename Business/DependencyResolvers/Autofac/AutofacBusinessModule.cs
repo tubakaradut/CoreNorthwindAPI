@@ -1,6 +1,4 @@
 ﻿
-
-
 using Autofac;
 using Business.Abstract;
 using Business.Concrete;
